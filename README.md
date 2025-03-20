@@ -18,8 +18,8 @@ Privacy is a right, not a privilege. Armori is built to empower individuals, not
 
 If you’re passionate about security, privacy, and reshaping the future of messaging, join us:
 
-🔹 Developer Community: @ArmoriDev
-🔹 Official Updates: @ArmoriApp
+🔹 **Developer Community:** [https://t.me/ArmoriDev](https://t.me/ArmoriDev)  
+🔹 **Official Updates:** [https://t.me/ArmoriApp](https://t.me/ArmoriApp) 
 
 🔧 How to Contribute
 	1.	Fork this repository and clone it locally.
