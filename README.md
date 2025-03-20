@@ -1,29 +1,28 @@
-ARMORI – The Future of Private Messaging
+# ARMORI – The Future of Private Messaging
 
-Armori is not just another messaging app. It’s a revolution.
-Built for those who demand absolute security, speed, and freedom, Armori is designed to be the most private, powerful, and advanced messaging experience ever created.
+Armori isn’t just another messaging app—it’s a revolution.  
+Designed for those who demand uncompromised security, blazing speed, and true freedom, Armori aims to deliver the most private, powerful, and advanced messaging experience ever built.
 
-⚡ Why Armori?
+## ⚡ Why Armori?
+- **Unbreakable Encryption**: Messages, calls, and files stay yours with end-to-end protection.  
+- **Zero Data Collection**: No tracking, no storage, no selling—your data is yours alone.  
+- **Fast & Lightweight**: Engineered for speed and efficiency, without the bloat.  
+- **Open-Source**: Fully transparent—no backdoors, no corporate agendas.  
 
-✅ Unbreakable Encryption – Your messages, calls, and files stay yours.
-✅ Zero Data Collection – We don’t track, store, or sell your information.
-✅ Instant, Reliable, and Lightweight – Built for speed and efficiency.
-✅ Open-Source & Transparent – No hidden backdoors, no corporate control.
+## 💡 Our Mission
+Privacy isn’t a privilege; it’s a right. Armori empowers individuals with secure communication, free from exploitation. This is the next evolution of messaging—built for the future, by the community.
 
-💡 Our Mission
+## 🚀 Get Involved
+Passionate about privacy and innovation? Join us to shape the future:  
+- **Developer Community**: [https://t.me/ArmoriDev](https://t.me/ArmoriDev)  
+- **Official Updates**: [https://t.me/ArmoriApp](https://t.me/ArmoriApp)  
 
-Privacy is a right, not a privilege. Armori is built to empower individuals, not exploit them. This is the next step in secure communication—built for the future.
+## 🔧 How to Contribute
+1. Fork this repo: `git clone https://github.com/ArmoriDev/Armori.git`  
+2. Check the [Issues tab](https://github.com/ArmoriDev/Armori/issues) for open tasks.  
+3. Submit a Pull Request with your changes.  
 
-🚀 Get Involved
+Your ideas, skills, and feedback are what make Armori legendary. Let’s build it together!
 
-If you’re passionate about security, privacy, and reshaping the future of messaging, join us:
-
-🔹 **Developer Community:** [https://t.me/ArmoriDev](https://t.me/ArmoriDev)  
-🔹 **Official Updates:** [https://t.me/ArmoriApp](https://t.me/ArmoriApp) 
-
-🔧 How to Contribute
-	1.	Fork this repository and clone it locally.
-	2.	Check the Issues tab for open tasks.
-	3.	Submit a Pull Request with your contributions.
-
-💬 Your ideas, skills, and feedback help improve Armori. Let’s build something legendary together.
+## 📜 License
+MIT – Free to use, modify, and share.
