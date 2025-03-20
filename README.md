@@ -1,6 +1,6 @@
 ARMORI – The Future of Private Messaging
 
-⚔️ Armori is not just another messaging app. It’s a revolution.
+Armori is not just another messaging app. It’s a revolution.
 Built for those who demand absolute security, speed, and freedom, Armori is designed to be the most private, powerful, and advanced messaging experience ever created.
 
 ⚡ Why Armori?
